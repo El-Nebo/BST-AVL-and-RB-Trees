@@ -34,10 +34,10 @@ In case of searching for nonexisting value
 
 
 ## Additional features
-*In case of red-black tree, tree draw has symbol 'R' or 'B' beside each node represinting the color of this node. 'R' stands for red node and 'B' stands for black tree
+* In case of red-black tree, tree draw has symbol 'R' or 'B' beside each node represinting the color of this node. 'R' stands for red node and 'B' stands for black tree
 Here how it looks:
 
 ![RB draw](https://github.com/El-Nebo/BST-AVL-and-RB-Trees/blob/main/screenshots/RB%20draw.PNG)
 
-*Program can print the tree in In-order traversal and Level-order traversal
+* Program can print the tree in In-order traversal and Level-order traversal
 
