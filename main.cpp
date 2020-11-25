@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	BSTree* ptr = nullptr;
-	cout<<"Note: Since it is out of course range, deleting a node from a red-black tree is not implemented int this program\n";
+	cout<<"Note: Since it is out of course range, deleting a node from a red-black tree is not implemented in this program\n";
 	cout << "please choose tree type\n1-BST\n2-AVL\n3-Red Black\n";
 	int c;	cin >> c;
 	bool isrb = false;
